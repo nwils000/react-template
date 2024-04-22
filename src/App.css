@@ -3,6 +3,7 @@ html {
 }
 body {
   height: 100%;
+  color: black;
 }
 #root {
   height: 100%;
